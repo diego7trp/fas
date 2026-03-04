@@ -31,3 +31,10 @@ build/
 
 ### VS Code ###
 .vscode/
+
+# Python / Django
+__pycache__/
+*.py[cod]
+.venv/
+db.sqlite3
+staticfiles/

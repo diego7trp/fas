@@ -33,3 +33,8 @@ Desarrollar Football  Association  System, un software que permita a líderes de
 *  **Diseño**: HTML, CSS
 *  **Frameworks de Diseño:** Bootstrap, Tailwind CSS
 * **Base de Datos:** MySQL 8.0
+
+## Migración a Django
+
+Se agregó un esqueleto inicial en `django_fas/` para iniciar la migración del proyecto a Django.
+Revisa `django_fas/README.md` para pasos de ejecución y próximos pasos.
